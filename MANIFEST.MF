@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Crated-By: Diego V.
+Main-Class: calculadora
+X-COMMENT: aun me falta mucho, pero ahi voy :D
